@@ -4,7 +4,7 @@
   height: 750px;
 }
 .card-price{
-  font-size: 38px;
+  font-size: 36px;
 }
 .period{
   font-size: medium;
@@ -25,7 +25,4 @@ li{
   .App{
     height: 3000px;
   }
-}
-.card{
-  height: 680px;
 }
