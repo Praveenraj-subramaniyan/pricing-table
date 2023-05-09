@@ -26,8 +26,6 @@ li{
     height: 3000px;
   }
 }
-/* @media   (max-width: 600px) {
-  .App{
-    height: 3000px;
-  }
-} */
+.card{
+  height: 670px;
+}
