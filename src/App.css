@@ -9,6 +9,9 @@
 .period{
   font-size: medium;
 }
+.card{
+  margin-top: 20px;
+}
 li{
   margin-top: 1.5rem;
   font-size: large;
@@ -25,5 +28,4 @@ li{
   .App{
     height: 2500px;
   }
-
 }
