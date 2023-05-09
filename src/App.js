@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <div class="container">
-        <div className="row">
-          <div className="col-9 col-sm-5 col-lg-3  m-4">
+        <div className="row ">
+          <div className="col-12 col-sm-6 col-lg-4 mt-5">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">
@@ -73,7 +73,7 @@ function App() {
               </div>
             </div>
           </div>
-          <div className="col-9 col-sm-5 col-lg-3  m-4 ">
+          <div className="col-12 col-sm-6 col-lg-4  mt-5">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">
@@ -140,7 +140,7 @@ function App() {
               </div>
             </div>
           </div>
-          <div className="col-9 col-sm-5 col-lg-3  m-4">
+          <div className="col-12 col-sm-6 col-lg-4 mt-5 ">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">
