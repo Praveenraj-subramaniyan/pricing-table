@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <div class="container">
         <div className="row ">
-          <div className="col-12 col-sm-6 col-lg-4 mt-4">
-            <div class="card mb-5 mb-lg-0">
+          <div className="col-12 col-sm-6 col-lg-4 mt-4 ">
+            <div class="card mb-5 mb-lg-0 test">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">
                   Free
@@ -74,7 +74,7 @@ function App() {
             </div>
           </div>
           <div className="col-12 col-sm-6 col-lg-4  mt-4">
-            <div class="card mb-5 mb-lg-0">
+            <div class="card mb-5 mb-lg-0 test">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">
                   Plus
@@ -141,7 +141,7 @@ function App() {
             </div>
           </div>
           <div className="col-12 col-sm-6 col-lg-4 mt-4 ">
-            <div class="card">
+            <div class="card test">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">
                   Pro
